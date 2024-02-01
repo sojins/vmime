@@ -1,5 +1,5 @@
 //
-// VMime library (http://www.vmime.org)
+// VMime library (http://www.vmime.org) 
 // Copyright (C) 2002 Vincent Richard <vincent@vmime.org>
 //
 // This program is free software; you can redistribute it and/or
